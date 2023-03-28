@@ -1,6 +1,7 @@
 // import { useState } from 'react'
 import { Routes, Route } from "react-router-dom";
-
+import TodoPage from "./pages/TodoPage/TodoPage";
+import FollowersPage from "./pages/FollowersPage/FollowersPage";
 import Banner from "./components/Banner/Banner";
 import "./App.css";
 
